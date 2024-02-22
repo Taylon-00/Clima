@@ -1,7 +1,7 @@
 ## github-pages
 21 de Fevereiro de 2024
 
-[Clima°](https://taylon-00.github.io/clima/){:target="_blank"}
+[](https://taylon-00.github.io/clima/){target="_blank"}
 
 
 
