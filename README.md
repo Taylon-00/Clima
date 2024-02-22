@@ -10,7 +10,7 @@ Projeto JavaScript com API em Tempo Real usando Fetch!
 </h1>
 
 <p>
-Acabei de concluir um projeto incrível em JavaScript que utiliza uma API em tempo real para fornecer dados atualizados instantaneamente! ⚡️
+Acabei de concluir um projeto incrível em JavaScript que utiliza uma API em tempo real para fornecer dados atualizados instantaneamente!
 </p>
 
 <p>
