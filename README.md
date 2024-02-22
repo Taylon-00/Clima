@@ -2,8 +2,7 @@
 21 de Fevereiro de 2024
 
 [](https://taylon-00.github.io/clima/){target="_blank"}
-
-
+<a href="https://taylon-00.github.io/clima/" target=_"blank"> clima </a>
 
 <h1>
 Projeto JavaScript com API em Tempo Real usando Fetch!
