@@ -1,3 +1,7 @@
+## github-pages
+21 de Fevereiro de 2024
+https://taylon-00.github.io/clima/
+
 <h1>
 Projeto JavaScript com API em Tempo Real usando Fetch!
 </h1>
