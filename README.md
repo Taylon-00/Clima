@@ -21,7 +21,7 @@ Com este projeto, pude aprimorar minhas habilidades em:
 </ul>
 
 
-<img src="./assets/img/web-img.png"/>
+<img src="./assets/img/TEMPO.png"/>
 
 
  # Clima
