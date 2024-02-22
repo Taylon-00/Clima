@@ -1,6 +1,9 @@
 ## github-pages
 21 de Fevereiro de 2024
-https://taylon-00.github.io/clima/
+
+[Clima°](https://taylon-00.github.io/clima/){:target="_blank"}
+
+
 
 <h1>
 Projeto JavaScript com API em Tempo Real usando Fetch!
